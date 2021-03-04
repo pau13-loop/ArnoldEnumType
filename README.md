@@ -71,23 +71,16 @@ The dough and radius of each planet (in kg and meters) are:
 
 This should be the output after execute your program (you can use it like a reference and a test case) **if your weight on Earth was 175kg**;
 
-$ java Planet 175
-
-Your weight on MERCURY is 66.107583
-
-Your weight on VENUS is 158.374842
-
-Your weight on EARTH is 175.000000
-
-Your weight on MARS is 66.279007
-
-Your weight on JUPITER is 442.847567
-
-Your weight on SATURN is 186.552719
-
-Your weight on URANUS is 158.397260
-
-Your weight on NEPTUNE is 199.207413
+    $ java Planet 175
+    
+    Your weight on MERCURY is 66.107583
+    Your weight on VENUS is 158.374842
+    Your weight on EARTH is 175.000000
+    Your weight on MARS is 66.279007
+    Your weight on JUPITER is 442.847567
+    Your weight on SATURN is 186.552719
+    Your weight on URANUS is 158.397260
+    Your weight on NEPTUNE is 199.207413
 
 
 If you're brave enough, you can try to resolve it all by yourself, in case you think you'll need some help, you can copy and paste the main class of the program and if still too difficult the test cases that have been made specially to go step by step. If after that still being too difficult in this link you'll find the solution by Oracle:
